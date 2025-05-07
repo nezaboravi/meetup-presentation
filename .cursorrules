@@ -1,0 +1,16 @@
+{
+  "rules": [
+    {
+      "description": "Generate a full-screen presentation using Livewire and FluxUI.",
+      "globs": ["resources/views/livewire/presentation.blade.php"],
+      "alwaysApply": true,
+      "content": [
+        "Use Tailwind 4 CSS classes to create a full-screen layout.",
+        "Implement keyboard navigation for slide transitions.",
+        "Use Alpine.js for any JavaScript functionality related to slide transitions.",
+        "Utilize FluxUI components for consistent styling.",
+        "Ensure the presentation is responsive and accessible."
+      ]
+    }
+  ]
+}
