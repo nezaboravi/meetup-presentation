@@ -11,42 +11,55 @@
             <div class="absolute inset-0 bg-[#ff2d20] opacity-5 rounded-lg"></div>
             <div class="relative p-8 bg-[#2d3748] rounded-lg">
                 <blockquote class="text-xl text-gray-300 italic">
-                    "Setting up PHP 3 was like trying to assemble IKEA furniture without instructions... in the dark... while someone keeps moving the pieces."
+                    "Setting up PHP 3 on Windows NT was like trying to assemble IKEA furniture without instructions... in the dark... while someone keeps moving the pieces."
                 </blockquote>
             </div>
         </div>
 
         <div class="grid grid-cols-1 md:grid-cols-3 gap-8">
-            <div class="p-6 bg-[#2d3748] rounded-lg relative overflow-hidden group">
+        <div class="p-6 bg-[#2d3748] rounded-lg relative overflow-hidden group">
                 <div class="absolute inset-0 bg-[#ff2d20] opacity-0 group-hover:opacity-10 transition-opacity"></div>
-                <h3 class="text-xl font-semibold text-[#ff2d20] mb-2">Morning Coder</h3>
-                <p class="text-gray-300">Coding in the morning, learning PHP 3</p>
+                <h3 class="text-xl font-semibold text-[#ff2d20] mb-2">Construction Worker</h3>
+                <p class="text-gray-300">Working as a construction/painter worker during the day time</p>
                 <img 
-                    src="https://images.unsplash.com/photo-1498050108023-c5249f4df085?ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60" 
-                    alt="Morning Coding" 
+                    src="/img/gradjevina.jpg" 
+                    alt="Construction Worker" 
                     class="mt-4 rounded-lg opacity-50"
                 >
             </div>
-
             <div class="p-6 bg-[#2d3748] rounded-lg relative overflow-hidden group">
                 <div class="absolute inset-0 bg-[#ff2d20] opacity-0 group-hover:opacity-10 transition-opacity"></div>
                 <h3 class="text-xl font-semibold text-[#ff2d20] mb-2">Night Bartender</h3>
                 <p class="text-gray-300">Working as a bartender at night</p>
                 <img 
-                    src="https://images.unsplash.com/photo-1514933651103-005eec06c04b?ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60" 
+                    src="/img/bartender.jpeg" 
                     alt="Bartending" 
                     class="mt-4 rounded-lg opacity-50"
                 >
             </div>
-
             <div class="p-6 bg-[#2d3748] rounded-lg relative overflow-hidden group">
                 <div class="absolute inset-0 bg-[#ff2d20] opacity-0 group-hover:opacity-10 transition-opacity"></div>
+                <h3 class="text-xl font-semibold text-[#ff2d20] mb-2">Night Coder</h3>
+                <p class="text-gray-300">Learning after the night shift</p>
+                <img 
+                    src="/img/night-learning.png" 
+                    alt="Learning night" 
+                    class="mt-4 rounded-lg opacity-50"
+                >
+            </div>
+
+           
+
+            <div class="p-6 bg-[#2d3748] rounded-lg col-span-3 relative overflow-hidden group">
+                <div class="absolute inset-0 bg-[#ff2d20] opacity-0 group-hover:opacity-10 transition-opacity"></div>
                 <h3 class="text-xl font-semibold text-[#ff2d20] mb-2">The Struggle</h3>
-                <ul class="text-gray-300 space-y-2">
+                <ul class="text-gray-300 space-y-2 grid grid-cols-3">
                     <li>• No mentors</li>
                     <li>• Limited resources</li>
                     <li>• Language barrier</li>
                     <li>• Apache configuration</li>
+                    <li>• Lack of resources</li>
+                    <li>• Dial up at 56k? </li>
                 </ul>
             </div>
         </div>

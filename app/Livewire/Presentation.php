@@ -9,8 +9,12 @@ class Presentation extends Component
     public int $currentSlide = 0;
     
     public array $slides = [
+        'welcome',
         'intro',
         'early-days',
+        'work-experience',
+        'discovery',
+        'first-web-project',
         'php3',
         'first-frameworks',
         'laravel-enters',
@@ -38,6 +42,6 @@ class Presentation extends Component
     public function render()
     {
         return view('livewire.presentation.index')
-            ->layout('components.layouts.presentation', ['title' => 'Laravel Meetup #1']);
+            ->layout('components.layouts.presentation', ['title' => 'Laravel Serbia Meetup']);
     }
 }

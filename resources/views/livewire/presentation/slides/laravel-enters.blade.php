@@ -1,4 +1,9 @@
 <div class="space-y-8">
+    <div class="flex flex-col items-center">
+        <div class="w-full max-w-2xl aspect-video bg-black rounded-lg overflow-hidden mb-6">
+            <img src="/img/laravel-website-2014.png" alt="Laravel 4 Website" class="w-full h-full object-cover">
+        </div>
+    </div>
     <div class="text-center space-y-4">
         <h1 class="text-4xl font-bold text-blue-400">
             Laravel Enters the Scene

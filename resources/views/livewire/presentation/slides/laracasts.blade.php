@@ -8,7 +8,7 @@
     <div class="mt-12 space-y-8">
         <div class="flex flex-col items-center">
             <img 
-                src="/storage/laracasts-2014-hero.jpg" 
+                src="/img/laracasts-2014-hero.png" 
                 alt="Laracasts 2014 Website" 
                 class="rounded-lg shadow-lg w-full max-w-2xl mb-6"
             >
@@ -18,8 +18,8 @@
                     "Laracasts is the Netflix for PHP devs. Binge-watching included. 🍿"
                 </blockquote>
                 <div class="flex items-center space-x-4 mt-4">
-                    <img src="/storage/jeffrey-way-real.jpg" alt="Jeffrey Way" class="w-10 h-10 rounded-full border-2 border-[#ff2d20]">
-                    <span class="text-gray-400">Jeffrey Way, the OG teacher</span>
+                    <img src="/img/jeffrey-way-real.png" alt="Jeffrey Way" class="rounded-full border-2 border-[#ff2d20]">
+                    <span class="text-gray-400">Jeffrey Way, THE teacher <br>- creator of Laracasts and man who help me change my life.</span>
                 </div>
             </div>
         </div>

@@ -7,7 +7,7 @@
     </div>
 
     <div class="flex flex-col items-center mt-12">
-        <img src="/storage/laravel-cloud-modern.jpg" alt="Laravel Cloud Modern" class="rounded-lg shadow-lg w-full max-w-2xl mb-6">
+        <img src="/img/laravel-cloud-modern.png" alt="Laravel Cloud Modern" class="rounded-lg shadow-lg w-full max-w-2xl mb-6">
         <div class="bg-[#2d3748] p-6 rounded-lg max-w-2xl w-full text-center">
             <h2 class="text-2xl font-semibold text-[#ff2d20] mb-2">Why Laravel Cloud?</h2>
             <ul class="text-gray-300 space-y-2 text-left mx-auto max-w-lg">
